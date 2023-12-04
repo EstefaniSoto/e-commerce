@@ -8,17 +8,16 @@ class Product {
   final double rating, price;
   final bool isFavourite, isPopular;
 
-  Product({
-    required this.id,
-    required this.images,
-    required this.colors,
-    this.rating = 0.0,
-    this.isFavourite = false,
-    this.isPopular = false,
-    required this.title,
-    required this.price,
-    required this.description
-  });
+  Product(
+      {required this.id,
+      required this.images,
+      required this.colors,
+      this.rating = 0.0,
+      this.isFavourite = false,
+      this.isPopular = false,
+      required this.title,
+      required this.price,
+      required this.description});
 }
 
 // Our demo Products
@@ -374,7 +373,7 @@ List<Product> demoProducts = [
     isFavourite: true,
   ),
   Product(
-    id: 12,
+    id: 20,
     images: [
       "assets/images/funko1.png",
       "assets/images/funko2.png",
@@ -392,7 +391,7 @@ List<Product> demoProducts = [
     isFavourite: true,
   ),
   Product(
-    id: 1,
+    id: 21,
     images: [
       "assets/images/ps4_console_blue_1.png",
       "assets/images/ps4_console_blue_2.png",
@@ -412,8 +411,6 @@ List<Product> demoProducts = [
     isFavourite: true,
     isPopular: true,
   ),
- ];
+];
 const String description =
     "The best products and the most affordable prices, you can find them here in your favorite E-commerce …";
-
-
