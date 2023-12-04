@@ -62,6 +62,7 @@ List<Product> demoProducts = [
     description: description,
     rating: 4.1,
     isPopular: true,
+    isFavourite: true,
   ),
   Product(
     id: 3,
@@ -137,6 +138,7 @@ List<Product> demoProducts = [
     description: description,
     rating: 4.1,
     isPopular: true,
+    isFavourite: true,
   ),
   Product(
     id: 7,
