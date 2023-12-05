@@ -1,12 +1,13 @@
 # TREND TECH - ECOMMERCE
 
-[![Home](trendtech.png)]
+<img src="trendtech.png" alt="home" width="200" height="400">
+
 
 ## Descripción
 
 TREND TECH - ECOMMERCE es una plataforma de comercio electrónico diseñada para brindar una experiencia de compra moderna y eficiente. Ofrecemos una amplia gama de productos tecnológicos de última generación, manteniéndonos a la vanguardia de las tendencias del mercado.
 
-<img src="products (1).png" alt="products" width="200" height="200">
+<img src="products (1).png" alt="products" width="200" height="400">
 
 
 ## Características Principales
@@ -19,7 +20,7 @@ TREND TECH - ECOMMERCE es una plataforma de comercio electrónico diseñada para
 
 - **Proceso de Pago Simple:** Realiza tus compras de manera rápida y segura con nuestro proceso de pago simple y efectivo.
 
-[![Sign In](signin.png)] 
+v<img src="signin.png" alt="signin" width="200" height="400">
 
 
 ## Cómo Empezar
